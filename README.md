@@ -1,5 +1,7 @@
 # Data Project Template
 
+> Documento do projeto de encostas (Canvas revisado e Plano de Trabalho): [reports/plano_projeto_encostas.md](reports/plano_projeto_encostas.md)
+
 <a target="_blank" href="https://datalumina.com/">
     <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
 </a>
